@@ -17,7 +17,7 @@ library(flexdashboard)
 library(leaflet)
 leaflet() %>%
   addTiles() %>%
-  addMarkers(lng=-67.356678, lat=9.919438, popup="The birthplace of data Science in Guárico")
+  addMarkers(lng=-67.356678, lat=9.919438, popup="The Birthplace of data Science in Guárico")
 ```
 
 ***
